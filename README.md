@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashesh12345
-- 👀 I’m interested in Data Science, Web development and Android development
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me Mail Id: asheshbanerjee335@gmail.com 
